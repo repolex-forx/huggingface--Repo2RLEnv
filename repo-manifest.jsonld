@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/Repo2RLEnv/commit/9d8b155766d85f73da6a0c467aec104c821ac49a",
       "git:hexsha": "9d8b155766d85f73da6a0c467aec104c821ac49a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.9.5"
     },
     {
