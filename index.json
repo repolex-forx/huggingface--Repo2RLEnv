@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "Repo2RLEnv",
+  "versions": [
+    {
+      "commit": "9d8b155766d85f73da6a0c467aec104c821ac49a",
+      "tag": "v0.9.5",
+      "parsed_at": "2026-11-07T23:10:40.489445+00:00"
+    }
+  ]
+}
